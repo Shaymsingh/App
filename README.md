@@ -1,1 +1,2 @@
 # App
+npm install 
